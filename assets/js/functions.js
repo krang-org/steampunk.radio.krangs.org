@@ -1007,12 +1007,6 @@ Amplitude.init({
       "cover_art_url": "assets/img/krang/krang-radio-040.jpg"
     },
     {
-      "name": "Briggs Roman",
-      "url": "./commercials/en-GB/hot-air-balloon-rentals/briggs-roman/16741585107640/commercial.mp3",
-      "artist": "Hot Air Balloon Rentals",
-      "cover_art_url": "assets/img/krang/krang-radio-067.jpg"
-    },
-    {
       "name": "Ashby And Sons",
       "url": "./commercials/en-GB/hot-air-balloon-rentals/ashby-and-sons/16741586316880/commercial.mp3",
       "artist": "Hot Air Balloon Rentals",
